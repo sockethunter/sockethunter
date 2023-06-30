@@ -8,7 +8,7 @@ Long-time enthusiast of everything tech, specializing in low-level programming, 
 
 * 🌍 I'm based in Cologne, Germany.
 * ✉️ Reach out to me for queries, collaborations, or a simple chat about creative coding at [mert.can@icpinar.com](mailto:mert.can@icpinar.com)
-* 🧠 Actively expanding my skill set with Rust, Yew, Material-Yew, and diving into the world of Amazon Web Services (AWS).
+* 🧠 I'm currently expanding my skill set with Rust, Yew, Material-Yew, and diving into the world of Amazon Web Services (AWS).
 * 🎯 Looking into AWS certifications to enhance my understanding and application of cloud services.
 * 🤝 I'm open to collaborating on commercial and non-commercial projects.
 * ⚡ I find particular joy in evolution simulations and generative art, transforming code into breathtaking visual experiences.
